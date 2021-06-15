@@ -1,0 +1,9 @@
+			Adrian R. Thanks for playing!!!		
+References:	
+https://www.youtube.com/watch?v=Upm7-i57yJU&list=PLoAoZw952_FQnNB0BMCTD5YJyFKMT13RQ&index=2
+https://www.cplusplus.com/reference/cstdlib/rand/
+https://www.giantbomb.com/profile/eirikr/lists/the-smt-demonic-compendium-gb-edition/44460/
+http://patorjk.com/ for ASCII art
+https://www.youtube.com/watch?v=Upm7-i57yJU&list=PLoAoZw952_FQnNB0BMCTD5YJyFKMT13RQ&index=2  
+
+Press Enter to go to the main menu

@@ -1,0 +1,11 @@
+- "What a weird name private... you are not from around here right?"
+- "Anyway, we have prepared basic equipment for you guys, tell me, What profession did you specialize in when you were at the academy?"
+
+[1]. Soldier   They have high HP pool and their damage output is the best. Their faith is low.
+[2]. Hunter    The Hunters are a well balanced class and they excel on parrying the enemy.
+[3]. Priest    For a priest to be here is very brave on its own, and the healing powers on them are far superior compared to his peers.
+
+- "Well congratulations, from now on, you are a SLAY Soldier... See you later private."
+- "I see, from now on, you are a SLAY Hunter... Keep both eyes wide open out there."
+- "Hmm ok then, rom now on, you are a SLAY Priest... May god guide your soul."
+- "Continue to our HQ, is on the center of the city, from there you can choose where to go. Goodspeed"

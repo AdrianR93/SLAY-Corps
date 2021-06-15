@@ -1,0 +1,14 @@
+HP: 
+/
+				[|||]				     Demon HP:    
+Level: 
+				[|||]				     Demon Level: 
+					[|||]				     Demon Race: 
+Profession: 
+Name: 
+Strength: 
+Proficiency: 
+Faith: 
+XP: 
+XP Needed for the next Level: 
+________________________________________________________________________________________________________

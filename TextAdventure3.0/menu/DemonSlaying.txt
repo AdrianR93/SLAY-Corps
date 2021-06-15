@@ -1,0 +1,39 @@
+[1]. Attack
+[2]. Parry
+[3]. Pray
+[4]. Escape
+[5]. Save
+
+You Attacked!!! you have inflicted 
+ damage to the 
+
+ hit back! did 
+ damage, you have 
+ left.
+
+You have defeated the 
+, you got 
+ XP.
+
+You try to deflect the blow...
+You haveve parried the attack and counter for 
+ damage. 
+
+ managed to hurt you for 
+ HP, you have 
+
+You've failed to parry, the demon did a critical hit!
+
+You pray for health...
+A holy light healed you by 
+ and scared the demon! your HP is 
+Your health is ok for now.
+No one is answering your call... the demon takes advantages of the moment and inflicts you 
+, your HP is 
+
+You try to run away...
+You have escaped without any problems!
+You failed to run away, the demon hit you for 
+. Your current HP is 
+
+Saving...

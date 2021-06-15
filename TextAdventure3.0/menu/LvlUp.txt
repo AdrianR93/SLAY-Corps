@@ -1,0 +1,9 @@
+A force inside you is welling up...
+You have leveled up! Congratz!
+Your Strenght went up to 
+Your Faith went up to 
+Your Proficiency went up to 
+You gained 25HP, your max HP is 
+Well Done Private! 
+You have earned 
+ XP.

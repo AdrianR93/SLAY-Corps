@@ -1,0 +1,37 @@
+[1]. Attack
+[2]. Parry
+[3]. Pray
+[4]. Save
+
+You have attacked mercilessly.
+You have inflicted 
+ of damage to the 
+
+The 
+ has attacked back! It did to you 
+, your remaining HP is 
+ screams with pain and retaliate! It did to you 
+ , your remaining HP is 
+ drinks something from a bottle... it healed for 
+!
+ is stunned and tired, this is your chance!
+
+You defeated 
+. You have managed to beat the biggest demon ever seen, tired and hurt, you limp your way out of the mansion.
+
+You try to parry the atack...
+You've parried the attack, made 
+ to the 
+ and stun it!
+ is stunned, you hit it for  
+ HP, and he could not attack you!
+ managed to hurt you for 
+ HP, you have 
+ left.
+You've failed to parry, the demon did a critical hit!
+
+A holy light healed you by 
+ and scared the demon! your HP is 
+Your health is ok for now
+No one is answering your call... the demon takes advantages of the moment and inflicts you 
+, your HP is 

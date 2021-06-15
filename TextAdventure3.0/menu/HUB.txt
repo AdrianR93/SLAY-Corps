@@ -1,0 +1,22 @@
+   _____  _               __     ___        _____                                          _ 
+  / ____|| |          /\  \ \   / ( )      / ____|                                        | |
+ | (___  | |         /  \  \ \_/ /|/ ___  | |     ___  _ __ ___  _ __ ___   __ _ _ __   __| |
+  \___ \ | |        / /\ \  \   /   / __| | |    / _ \| '_ ` _ \| '_ ` _ \ / _` | '_ \ / _` |
+  ____) || |____ _ / ____ \ _| |_   \__ \ | |___| (_) | | | | | | | | | | | (_| | | | | (_| |
+ |_____(_)______(_)_/    \_(_)_(_)  |___/  \_____\___/|_| |_| |_|_| |_| |_|\__,_|_| |_|\__,_|
+   / ____|         | |                                                                       
+  | |     ___ _ __ | |_ ___ _ __                                                             
+  | |    / _ \ '_ \| __/ _ \ '__|                                                            
+  | |___|  __/ | | | ||  __/ |                                                               
+   \_____\___|_| |_|\__\___|_|                                                               
+                                                                                             
+                                                                                             
+[1]. Proceed to the Basement
+[2]. Rest at the Barracks
+[3]. Raid the Governor's Mansion
+[4]. Save Game
+[5]. Go back to Main Menu
+You grab your gear and enter the basement... 
+You are alredy rested, better keep moving 
+You take a recovering sleep, you are fully healed
+You haven't found it yet, it must be on a lower floor of the basement
